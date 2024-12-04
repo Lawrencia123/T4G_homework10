@@ -23,3 +23,7 @@ let para5 = document.getElementById("para5");
 para5.style.backgroundColor = "black";
 para5.style.color = "white";
 para5.innerHTML = "Yes i did it! I manipulated the DOM and styled my elemets 🤩🤩🤩🤩"
+
+let heading1 = document.getElementById("heading1");
+heading1.style.backgroundColor = "blue"
+
