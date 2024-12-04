@@ -1,0 +1,27 @@
+.heading{
+    text-align: center;
+    font-family: cursive;
+}
+p{
+    background-color: brown;
+    padding: 10px;
+    margin: 35px;
+ justify-content: center;
+}
+.dom{
+    background-color: rgb(213, 233, 233);
+}
+.para2{
+    background-color: yellow;
+}
+.para3{
+    background-color: green;
+}
+.para4{
+    background-color: blueviolet;
+   font-color
+}
+.para5{
+    background-color: rgb(63, 59, 59);
+}
+  
