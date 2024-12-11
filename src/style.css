@@ -24,4 +24,14 @@ p{
 .para5{
     background-color: rgb(63, 59, 59);
 }
+.butimg{
+    display: none;
+    height: 500px;
+    width: 300px;
+}
+.button{
+    margin: auto 700px;
+    
+}
+
   
